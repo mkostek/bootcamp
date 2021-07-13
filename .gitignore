@@ -1,4 +1,2 @@
-cacrt.txt
-client.txt
-clientkey.txt
-config
+/venv
+.idea
